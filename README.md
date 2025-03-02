@@ -1,12 +1,6 @@
 # ProjetoTriangulo
-![imagem](https://github.com/user-attachments/assets/857bcac4-efce-41c9-a285-e3d0b790440e)
-
-
 Este é um projeto simples em Java, desenvolvido no NetBeans, que utiliza Swing JFrame para verificar se três segmentos de reta podem formar um triângulo e, em caso positivo, qual o tipo de triângulo formado.
-
-## Descrição
-
-O programa permite que o usuário ajuste o comprimento de três segmentos de reta usando sliders. Ao clicar no botão "Verificar", o programa determina se os segmentos podem formar um triângulo e, se sim, classifica o triângulo como equilátero, isósceles ou escaleno.
+![imagem](https://github.com/user-attachments/assets/857bcac4-efce-41c9-a285-e3d0b790440e)
 
 ## Funcionalidades
 
